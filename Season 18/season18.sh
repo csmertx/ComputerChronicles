@@ -1,0 +1,21 @@
+#!/bin/bash
+
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x10%20-%20ETRE%20Conference%20Prague%20%282000%29%3A%20Part%201.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x11%20-%20ETRE%20Conference%20Prague%20%282000%29%3A%20Part%202.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x12%20-%20Consumer%27s%20Buying%20Guide%20%282000%29.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x13%20-%20MP3%20Secrets.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x15%20-%20ETRE%20Conference%20Prague%20%282000%29%3A%20Part%203.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x16%20-%20Online%20Gaming.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x17%20-%20Privacy%20Online.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x20%20-%20High%20Tech%20Hawaii%3A%20Part%201.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x21%20-%20High%20Tech%20Hawaii%3A%20Part%202.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x23%20-%20High%20Tech%20Hawaii%3A%20Part%204.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x24%20-%20Creating%20Your%20Own%20Website.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x25%20-%20Consumer%20Electronics%20Show%20%28CES%29%20%282001%29.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x27%20-%20Wireless%20Technology.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x28%20-%20Finding%20a%20Job%20Online.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x29%20-%20Security%20and%20Viruses.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x33%20-%20Online%20Universities.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x38%20-%20Ultimate%20Gaming%20PC.mp4"
+wget "https://archive.org/download/Computer_Chronicles/Season%2018/Computer%20Chronicles%20-%2018x39%20-%20Interactive%20TV.mp4"
+exit 0
