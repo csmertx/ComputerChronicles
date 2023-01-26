@@ -7,7 +7,6 @@ wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Ch
 wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x09%20-%20Consumer%27s%20Buying%20Guide%20%281989%29.mp4"
 wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x10%20-%20Software%20Piracy.mp4"
 wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x11%20-%20DOS%20to%20Mac%20and%20Back%20%28fixed%29.mp4"
-wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x11%20-%20DOS%20to%20Mac%20and%20Back.mp4"
 wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x12%20-%20Computers%20and%20Fitness.mp4"
 wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x13%20-%20Low%20Cost%20LANs.mp4"
 wget "https://archive.org/download/Computer_Chronicles/Season%2007/Computer%20Chronicles%20-%2007x15%20-%20Optical%20Storage.mp4"
