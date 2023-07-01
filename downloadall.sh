@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Requires: wget and notify-send (libnotify-bin & libnotifyN)
+## Requires: wget and notify-send (libnotify-bin & libnotify)
 
 ## Individual scripts per season included
 ## REPEATS skipped. Missing skipped. All English episodes listed
