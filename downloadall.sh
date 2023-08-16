@@ -22,7 +22,7 @@ while true
 do
     cd "Season $ccsn"
     "./season${ccsn}.sh"
-    #touch "isee $ccsn.txt"
+    #echo "isee $ccsn.txt"
     ccsn="$(($ccsn + 1))"
     cd ..
     sleep 1
