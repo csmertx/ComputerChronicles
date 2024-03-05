@@ -1,8 +1,12 @@
-## Download most episodes of the Computer Chronicles (1983-2002)
+## Most episodes of the Computer Chronicles in English (1983-2002)
 
-While waiting, the Internet Archive is accepting [donations](https://archive.org/donate) ($1, $5, $10, $10+)
+Matched what I could and removed duplicates when needed.
+
+#### While waiting
+
+The Internet Archive accepts [donations](https://archive.org/donate) ($1, $5, $10, $10+)
 
 #### Instructions
 1. cd to the cloned repo
 2. ./downloadall.sh
-3. Profit
+3. Change metadata in [Jellyfin](https://github.com/jellyfin/jellyfin) instance
