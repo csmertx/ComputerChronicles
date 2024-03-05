@@ -1,6 +1,6 @@
 ## Most episodes of the Computer Chronicles in English (1983-2002)
 
-Matched what I could and removed duplicates when needed.
+Matched what I could and removed duplicates as needed.
 
 #### While waiting
 
